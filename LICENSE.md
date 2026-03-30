@@ -11,6 +11,6 @@ This software and its source code are the exclusive property of FluxTV.
 - Remove or obscure any copyright, attribution, or ownership notices embedded in the code
 
 **You may:**
-- Run this software for its intended purpose as authorised by the owner
+- Get permission from FluxTV development to modify these files **without removing credits**
 
 Any use outside the above permissions requires explicit written consent from FluxTV.
