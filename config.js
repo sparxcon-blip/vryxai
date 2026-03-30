@@ -1,5 +1,5 @@
 // ============================================================
-// VyrxAI — Site Configuration
+// VyrxAI Site config
 // Copyright (c) 2025 FluxTV. All rights reserved.
 // Unauthorised copying or distribution is prohibited.
 // ============================================================
@@ -14,10 +14,10 @@ const SITE_CONFIG = {
       name: "Free Trial",
       price: "£0",
       priceLabel: "forever",
-      description: "Get started with no commitment.",
+      description: "Get started for free.",
       features: [
-        "Access to Sparx Maths solver",
-        "5 questions per day",
+        "1 use per day",
+        "3 day trial",
         "Basic accuracy",
         "Discord support",
       ],
@@ -26,9 +26,9 @@ const SITE_CONFIG = {
     },
     {
       name: "Lifetime",
-      price: "£PRICE_HERE", // ← Set your price here
+      price: "£6", // set or edit your price here
       priceLabel: "one-time",
-      description: "One payment. Yours forever.",
+      description: "Pay once, use forever.",
       features: [
         "Unlimited Sparx Maths, Reader & Science",
         "99% accuracy guarantee",
