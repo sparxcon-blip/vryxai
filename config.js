@@ -1,5 +1,5 @@
 // ============================================================
-// VyrxAI Site config
+// VyrxAI placeholders config
 // Copyright (c) 2025 FluxTV. All rights reserved.
 // Unauthorised copying or distribution is prohibited.
 // ============================================================
